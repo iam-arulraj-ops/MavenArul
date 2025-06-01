@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="3" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-05T14:01:12 IST" name="Default suite" finished-at="2024-02-05T14:01:28 IST" duration-ms="16288">
+    <groups>
+    </groups>
+    <test started-at="2024-02-05T14:01:12 IST" name="Default test" finished-at="2024-02-05T14:01:28 IST" duration-ms="16288">
+      <class name="com.topics.Alert">
+        <test-method signature="sendKeysAlert()[pri:0, instance:com.topics.Alert@4310d43]" started-at="2024-02-05T14:01:12 IST" name="sendKeysAlert" finished-at="2024-02-05T14:01:28 IST" duration-ms="16194" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sendKeysAlert -->
+      </class> <!-- com.topics.Alert -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

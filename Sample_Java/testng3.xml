@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<listeners>
+		<listener class-name="com.runner1.ITestListenerClass"></listener>
+	</listeners>
+
+	<test name="G">
+		<classes>
+			<class name="com.runner1.TestClass" >
+			<methods>
+				<include name="testGoogle" />
+			</methods>
+			</class>
+		</classes>
+	</test>
+
+
+	<test name="F">
+		<classes>
+			<class name="com.runner1.TestClass">
+				<methods>
+					<include name="testFacebook" />
+				</methods>
+			</class>
+		</classes>
+	</test>
+
+
+	<test name="A">
+		<classes>
+			<class name="com.runner1.TestClass">
+				<methods>
+					<include name="testAdactin" />
+				</methods>
+			</class>
+		</classes>
+	</test>
+
+
+</suite> <!-- Suite -->

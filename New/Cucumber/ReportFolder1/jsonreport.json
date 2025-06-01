@@ -1,0 +1,84 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2024-01-03T11:33:45.849Z",
+        "line": 3,
+        "name": "Validating the login page with valid username and credentials",
+        "description": "",
+        "id": "facebook-login-page;validating-the-login-page-with-valid-username-and-credentials",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 1853899900,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user launches the application url",
+            "match": {
+              "location": "StepDefinition.user_launches_the_application_url()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 696162600,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user enters the \"arulraj123\" in the username field",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"arulraj123\"",
+                  "offset": 16
+                }
+              ],
+              "location": "StepDefinition.user_enters_the_in_the_username_field(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 632340900,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "user gives the \"commando123456789\" as the valid password in the field",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"commando123456789\"",
+                  "offset": 15
+                }
+              ],
+              "location": "StepDefinition.user_gives_the_as_the_valid_password_in_the_field(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 7853356700,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "user clicks the login button",
+            "match": {
+              "location": "StepDefinition.user_clicks_the_login_button()"
+            },
+            "keyword": "And "
+          }
+        ]
+      }
+    ],
+    "name": "Facebook login page",
+    "description": "",
+    "id": "facebook-login-page",
+    "keyword": "Feature",
+    "uri": "file:/C:/Eclipse_Final/New/Cucumber/src/test/java/com/featurefile/Cucumber1.feature",
+    "tags": []
+  }
+]

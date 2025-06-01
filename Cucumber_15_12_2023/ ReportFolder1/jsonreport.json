@@ -1,0 +1,298 @@
+[
+	{
+		"line": 1,
+		"elements": [
+			{
+				"start_timestamp": "2023-12-15T12:51:21.533Z",
+				"line": 14,
+				"name": "Login page",
+				"description": "",
+				"id": "facebook-website-page;login-page;;2",
+				"type": "scenario",
+				"keyword": "Scenario Outline",
+				"steps": [
+					{
+						"result": {
+							"duration": 11771048600,
+							"status": "passed"
+						},
+						"line": 5,
+						"name": "user launches the application url",
+						"match": {
+							"location": "com.stepdefinition1.StepDefinition.user_launches_the_application_url()"
+						},
+						"keyword": "Given "
+					},
+					{
+						"result": {
+							"duration": 186892200,
+							"status": "passed"
+						},
+						"line": 6,
+						"name": "user enters the \"arulraj123$gmail.com\"",
+						"match": {
+							"arguments": [
+								{
+									"val": "\"arulraj123$gmail.com\"",
+									"offset": 16
+								}
+							],
+							"location": "com.stepdefinition1.StepDefinition.user_enters_the(java.lang.String)"
+						},
+						"keyword": "When "
+					},
+					{
+						"result": {
+							"duration": 126936100,
+							"status": "passed"
+						},
+						"line": 7,
+						"name": "user gives the \"arul123\" credentials",
+						"match": {
+							"arguments": [
+								{
+									"val": "\"arul123\"",
+									"offset": 15
+								}
+							],
+							"location": "com.stepdefinition1.StepDefinition.user_gives_the_credentials(java.lang.String)"
+						},
+						"keyword": "And "
+					},
+					{
+						"result": {
+							"duration": 3106463400,
+							"status": "passed"
+						},
+						"line": 8,
+						"name": "user clicks the login button",
+						"match": {
+							"location": "com.stepdefinition1.StepDefinition.user_clicks_the_login_button()"
+						},
+						"keyword": "And "
+					}
+				]
+			},
+			{
+				"start_timestamp": "2023-12-15T12:51:36.804Z",
+				"line": 15,
+				"name": "Login page",
+				"description": "",
+				"id": "facebook-website-page;login-page;;3",
+				"type": "scenario",
+				"keyword": "Scenario Outline",
+				"steps": [
+					{
+						"result": {
+							"duration": 3515973700,
+							"status": "passed"
+						},
+						"line": 5,
+						"name": "user launches the application url",
+						"match": {
+							"location": "com.stepdefinition1.StepDefinition.user_launches_the_application_url()"
+						},
+						"keyword": "Given "
+					},
+					{
+						"result": {
+							"duration": 120937800,
+							"status": "passed"
+						},
+						"line": 6,
+						"name": "user enters the \"cyril123$gmail.com\"",
+						"match": {
+							"arguments": [
+								{
+									"val": "\"cyril123$gmail.com\"",
+									"offset": 16
+								}
+							],
+							"location": "com.stepdefinition1.StepDefinition.user_enters_the(java.lang.String)"
+						},
+						"keyword": "When "
+					},
+					{
+						"result": {
+							"duration": 106941900,
+							"status": "passed"
+						},
+						"line": 7,
+						"name": "user gives the \"cyril123\" credentials",
+						"match": {
+							"arguments": [
+								{
+									"val": "\"cyril123\"",
+									"offset": 15
+								}
+							],
+							"location": "com.stepdefinition1.StepDefinition.user_gives_the_credentials(java.lang.String)"
+						},
+						"keyword": "And "
+					},
+					{
+						"result": {
+							"duration": 3084462600,
+							"status": "passed"
+						},
+						"line": 8,
+						"name": "user clicks the login button",
+						"match": {
+							"location": "com.stepdefinition1.StepDefinition.user_clicks_the_login_button()"
+						},
+						"keyword": "And "
+					}
+				]
+			},
+			{
+				"start_timestamp": "2023-12-15T12:51:43.649Z",
+				"line": 16,
+				"name": "Login page",
+				"description": "",
+				"id": "facebook-website-page;login-page;;4",
+				"type": "scenario",
+				"keyword": "Scenario Outline",
+				"steps": [
+					{
+						"result": {
+							"duration": 649578200,
+							"status": "passed"
+						},
+						"line": 5,
+						"name": "user launches the application url",
+						"match": {
+							"location": "com.stepdefinition1.StepDefinition.user_launches_the_application_url()"
+						},
+						"keyword": "Given "
+					},
+					{
+						"result": {
+							"duration": 130109700,
+							"status": "passed"
+						},
+						"line": 6,
+						"name": "user enters the \"sahayarajan67$gmail.com\"",
+						"match": {
+							"arguments": [
+								{
+									"val": "\"sahayarajan67$gmail.com\"",
+									"offset": 16
+								}
+							],
+							"location": "com.stepdefinition1.StepDefinition.user_enters_the(java.lang.String)"
+						},
+						"keyword": "When "
+					},
+					{
+						"result": {
+							"duration": 110291300,
+							"status": "passed"
+						},
+						"line": 7,
+						"name": "user gives the \"sahayam67\" credentials",
+						"match": {
+							"arguments": [
+								{
+									"val": "\"sahayam67\"",
+									"offset": 15
+								}
+							],
+							"location": "com.stepdefinition1.StepDefinition.user_gives_the_credentials(java.lang.String)"
+						},
+						"keyword": "And "
+					},
+					{
+						"result": {
+							"duration": 3084498300,
+							"status": "passed"
+						},
+						"line": 8,
+						"name": "user clicks the login button",
+						"match": {
+							"location": "com.stepdefinition1.StepDefinition.user_clicks_the_login_button()"
+						},
+						"keyword": "And "
+					}
+				]
+			},
+			{
+				"start_timestamp": "2023-12-15T12:51:47.648Z",
+				"line": 17,
+				"name": "Login page",
+				"description": "",
+				"id": "facebook-website-page;login-page;;5",
+				"type": "scenario",
+				"keyword": "Scenario Outline",
+				"steps": [
+					{
+						"result": {
+							"duration": 630568400,
+							"status": "passed"
+						},
+						"line": 5,
+						"name": "user launches the application url",
+						"match": {
+							"location": "com.stepdefinition1.StepDefinition.user_launches_the_application_url()"
+						},
+						"keyword": "Given "
+					},
+					{
+						"result": {
+							"duration": 126707300,
+							"status": "passed"
+						},
+						"line": 6,
+						"name": "user enters the \"amali73$gmail.com\"",
+						"match": {
+							"arguments": [
+								{
+									"val": "\"amali73$gmail.com\"",
+									"offset": 16
+								}
+							],
+							"location": "com.stepdefinition1.StepDefinition.user_enters_the(java.lang.String)"
+						},
+						"keyword": "When "
+					},
+					{
+						"result": {
+							"duration": 132464700,
+							"status": "passed"
+						},
+						"line": 7,
+						"name": "user gives the \"amali123\" credentials",
+						"match": {
+							"arguments": [
+								{
+									"val": "\"amali123\"",
+									"offset": 15
+								}
+							],
+							"location": "com.stepdefinition1.StepDefinition.user_gives_the_credentials(java.lang.String)"
+						},
+						"keyword": "And "
+					},
+					{
+						"result": {
+							"duration": 3107885000,
+							"status": "passed"
+						},
+						"line": 8,
+						"name": "user clicks the login button",
+						"match": {
+							"location": "com.stepdefinition1.StepDefinition.user_clicks_the_login_button()"
+						},
+						"keyword": "And "
+					}
+				]
+			}
+		],
+		"name": "Facebook website page",
+		"description": "",
+		"id": "facebook-website-page",
+		"keyword": "Feature",
+		"uri": "file:src/test/java/com/featurefile/CucumberExample.feature",
+		"tags": [
+		]
+	}
+]

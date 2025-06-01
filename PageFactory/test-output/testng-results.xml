@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-08T16:15:52 IST" name="Default suite" finished-at="2023-09-08T16:16:15 IST" duration-ms="23166">
+    <groups>
+    </groups>
+    <test started-at="2023-09-08T16:15:52 IST" name="Default test" finished-at="2023-09-08T16:16:15 IST" duration-ms="23166">
+      <class name="com.pg.TestMethods_GoogleSearch">
+        <test-method is-config="true" signature="browserLaunch()[pri:0, instance:com.pg.TestMethods_GoogleSearch@4b45a2f5]" started-at="2023-09-08T16:15:52 IST" name="browserLaunch" finished-at="2023-09-08T16:15:58 IST" duration-ms="6362" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserLaunch -->
+        <test-method signature="searchOperations()[pri:0, instance:com.pg.TestMethods_GoogleSearch@4b45a2f5]" started-at="2023-09-08T16:15:58 IST" name="searchOperations" finished-at="2023-09-08T16:16:15 IST" duration-ms="16100" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchOperations -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.pg.TestMethods_GoogleSearch@4b45a2f5]" started-at="2023-09-08T16:16:15 IST" name="tearDown" finished-at="2023-09-08T16:16:15 IST" duration-ms="619" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.pg.TestMethods_GoogleSearch -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
